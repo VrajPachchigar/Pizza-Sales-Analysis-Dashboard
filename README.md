@@ -1,4 +1,43 @@
-# Pizza-Sales-Analysis-Dashboard
-This project focuses on analyzing pizza sales data using MySQL for data extraction and transformation, and Excel (Pivot Tables) for dynamic reporting and visualization. The goal was to uncover key business insights such as top-selling pizzas, peak order hours, sales trends, and customer preferences regarding pizza category and size.
+## 🍕 Pizza Sales Analysis – MySQL & Excel (Pivot Tables)
+- This project analyzes pizza sales data using **MySQL** and **Microsoft Excel** to extract actionable business insights through KPIs and visual dashboards. The goal is to help a hypothetical pizza restaurant understand its sales trends, customer preferences, and 
+  performance by pizza type, size, and time.
 
+## 🔧 Tools & Technologies
+- **MySQL** – Data cleaning, aggregation, and analysis  
+- **Microsoft Excel** – Pivot Tables, Charts, and Dashboards  
+- **SQL** – Queries to transform and summarize data 
+
+## 📌 Key KPIs Generated
+- ✅ **Total Revenue by Pizza Sales**
+- ✅ **Average Order Value per Order**
+- ✅ **Total Pizzas Sold**
+- ✅ **Total Orders Received**
+- ✅ **Average Pizzas per Order**
+- ✅ **Daily Trends for All Orders**
+- ✅ **Hourly Trends for All Orders**
+- ✅ **Percentage of Sales by Pizza Category**
+- ✅ **Percentage of Sales by Pizza Size**
+- ✅ **Total Pizza Sold by Pizza Category**
+- ✅ **Top 5 Best-Selling Pizzas**
+- ✅ **Bottom 5 Least-Selling Pizzas**
+
+## 🔍 KPI Generation Process
+1. **📥 Data Cleaning & Importing**
+   - Loaded raw CSV sales data into MySQL.
+   - Cleaned inconsistent values and standardized columns.
+   - Parsed date/time and normalized categorical fields (e.g., pizza size, category).
+2. **🧮 SQL Data Transformation**
+   - Used SQL queries for data aggregation:
+     - `SUM(quantity * price)` → Total Revenue
+     - `COUNT(DISTINCT order_id)` → Total Orders
+     - `SUM(quantity)` → Total Pizzas Sold
+     - Calculated average values, grouped sales by time (day/hour), pizza size, and category.
+3. **📤 Export to Excel**
+   - Exported query results from MySQL to Excel for visualization.
+4. **📈 Pivot Table Dashboards**
+   - Built dynamic dashboards using Pivot Tables and Charts:
+     - Tracked sales trends by day and hour.
+     - Compared pizza size and category performances.
+     - Visualized top/bottom selling pizzas.
+    
 
