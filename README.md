@@ -43,4 +43,7 @@
      - Compared pizza size and category performances.
      - Visualized top/bottom selling pizzas.
     
+## 📸 Dashboard Visuals
+- 
+    
 
