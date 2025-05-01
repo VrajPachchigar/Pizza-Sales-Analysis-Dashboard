@@ -3,7 +3,7 @@
   performance by pizza type, size, and time.
 
 ## Dataset Used
-- <a href="https://github.com/VrajPachchigar/Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sales%20Data.xlsx">Pizza_Sales_Data_2015></a>
+- <a href="https://github.com/VrajPachchigar/Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sales%20Data.xlsx">Pizza_Sales_Data_2015</a>
 
 ## 🔧 Tools & Technologies
 - **MySQL** – Data cleaning, aggregation, and analysis  
