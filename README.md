@@ -2,6 +2,9 @@
 - This project analyzes pizza sales data using **MySQL** and **Microsoft Excel** to extract actionable business insights through KPIs and visual dashboards. The goal is to help a hypothetical pizza restaurant understand its sales trends, customer preferences, and 
   performance by pizza type, size, and time.
 
+## Dataset Used
+- <a href="https://github.com/VrajPachchigar/Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sales%20Data.xlsx">Pizza_Sales_Data_2015></a>
+
 ## 🔧 Tools & Technologies
 - **MySQL** – Data cleaning, aggregation, and analysis  
 - **Microsoft Excel** – Pivot Tables, Charts, and Dashboards  
