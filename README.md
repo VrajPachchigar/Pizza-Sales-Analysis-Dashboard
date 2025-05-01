@@ -44,6 +44,7 @@
      - Visualized top/bottom selling pizzas.
     
 ## 📸 Dashboard Visuals
-- <a href="https://github.com/VrajPachchigar/Pizza-Sales-Analysis-Dashboard/blob/main/Dashboard.jpg">Dashboard</a>
+![Dashboard](https://github.com/user-attachments/assets/935314b8-2402-4db7-9c28-d920d7700018)
+
     
 
